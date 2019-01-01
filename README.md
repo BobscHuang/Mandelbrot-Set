@@ -11,7 +11,7 @@ Simply open "Mandelbrot.pde" in the "Mandelbrot" folder through Processing and r
 
 ## Instructions
 
-This program renders the Mandelbrot set by using a large amount of ellipses. You can change the resolution by adjusting "size(x, y)" in "setup". To change the actual render detail, decrease the variable "incrementX" in "setup()", the smaller the value, the more clear the picture. Note that as "incrementX" decreases, the render time increases exponentially, so do be patient.
+This program renders the Mandelbrot set by using a large amount of ellipses. You can change the resolution by adjusting `size(x, y)` in `setup()`. To change the actual render detail, decrease the variable `incrementX` in `setup()`, the smaller the value, the more clear the picture. Note that as `incrementX` decreases, the render time increases exponentially, so do be patient.
 
 ## Screenshots
 
